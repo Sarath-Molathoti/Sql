@@ -1,0 +1,5 @@
+SELECT ROUND(15.5555);
+SELECT ROUND(15.5555,0);
+SELECT ROUND(15.5555,1);
+
+SELECT name, ROUND(sum(total_marks)) FROM members GROUP BY name;

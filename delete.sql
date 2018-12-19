@@ -1,0 +1,2 @@
+DELETE FROM members2 WHERE name='BHARATH';
+SELECT * FROM members2;

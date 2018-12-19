@@ -1,0 +1,3 @@
+CREATE DATABASE csea;
+USE csea;
+DROP DATABASE csea; 

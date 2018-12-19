@@ -1,0 +1,2 @@
+DROP TABLE members2;
+SHOW TABLES;
